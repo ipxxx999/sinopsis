@@ -1,17 +1,16 @@
-        <!-------------------  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">--------------------->
-        <!-------------------  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css">--------------------->
+
 
 sinopsis
 
 
-Los_Simpson_Temporada
+Los Simpson Temporada
 
 
 Comedia americana de animación creada por Matt Groening para la compañía Fox. La serie es una parodia satírica del estilo de la clase media americana encarnada por una familia con ese mismo nombre, compuesta por Homer, Marge, Bart, Lisa, y Maggie Simpson. La trama se desarrolla en la ciudad ficticia de Springfield y parodia la cultura, la sociedad, la televisión estadounidense y muchos otros aspectos de la condición humana.
 
 
 
-http://167.114.174.132:9092/series/lossimpsons/capitulos/
+
 
 
 
